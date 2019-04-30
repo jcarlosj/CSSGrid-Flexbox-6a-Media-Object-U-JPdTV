@@ -18,10 +18,23 @@ body {
 h2 {
     text-align: center;
 }
+h3 {
+    margin-top: 0;
+}
 
 .container {
     background-color: white;
     margin: 0 auto;
     max-width: 800px;
     padding: 2rem;
+}
+
+/* Media Object */
+.comment {
+    display: flex;
+    align-items: flex-start;
+}
+.comment .avatar {
+    margin-right: 1rem;
+    flex: 0 0 7rem;
 }
