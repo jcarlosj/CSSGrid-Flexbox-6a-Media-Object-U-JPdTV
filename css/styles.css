@@ -35,6 +35,11 @@ h3 {
     align-items: flex-start;
 }
 .comment .avatar {
-    margin-right: 1rem;
-    flex: 0 0 7rem;
+    width: 220px;
+    height: 80px;
+    margin: 0 1rem 0 0;
+}
+.comment h2 {
+    font-weight: 500;
+    margin: 0 0 0.5rem 0;
 }
