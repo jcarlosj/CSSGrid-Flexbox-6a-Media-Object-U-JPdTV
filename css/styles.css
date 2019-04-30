@@ -43,3 +43,8 @@ h3 {
     font-weight: 500;
     margin: 0 0 0.5rem 0;
 }
+.comment-response {
+    background-color: rgb(199, 224, 221);
+    padding: 1rem;
+    margin-bottom: 1rem;
+}
